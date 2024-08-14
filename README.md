@@ -1,5 +1,6 @@
-# Power-Bi-Dahsboards
-This repository contains a collection of Power BI dashboards created by an engineering student interested in consulting and analytics domain. The dashboards are designed to be easy to use and understand, and they can be used by a variety of stakeholders, including executives, managers, and analysts.
+# Netflix-Prime-Spotify Power-Bi-Dahsboards
+This repository contains a collection of Power BI dashboards created by an engineering student interested in consulting and analytics domain. The dashboards are designed to be easy to use and understand, and they can be used by a variety of stakeholders, including executives, managers, and analysts. Used Query Editor for data cleaning and preprocessing.
+
 Projects added-
 
 1. Netflix- About the Dataset: Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
